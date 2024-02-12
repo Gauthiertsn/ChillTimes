@@ -56,7 +56,14 @@ Développer une application Android permettant à un utilisateur de découvrir e
 <ul>
     <li>Arrière-plan des écrans: <span class="code">#15232E</span></li>
     <li>Orange: <span class="orange">#FF8100</span></li>
-    <!-- Ajouter d'autres couleurs ici -->
+    <li>Arrière-plan des cartes : #1E3243</li>
+    <li>Arrière-plan d'un élément dans une carte : #284C6A</li>
+    <li>Arrière-plan de "Voir plus" : #0F1921</li>
+    <li>Arrière-plan bottom bar : #0F1E2B</li>
+    <li>Arrière-plan bottom bar - sélectionné : #12273C</li>
+    <li>Texte bottom bar - sélectionné : #12273C</li>
+    <li>Texte bottom bar - non sélectionné : #778BA8</li>
+
 </ul>
 <p>Plus de détails disponibles dans le fichier de design partagé.</p>
 
