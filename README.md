@@ -71,4 +71,8 @@ Développer une application Android permettant à un utilisateur de découvrir e
 <p>Pour contribuer au projet, veuillez suivre les instructions suivantes :</p>
 <ol>
     <li>Fork le projet</li>
-    <li>Créez votre branche de fonctionnalité (<span class="code">
+    <li>Créez votre branche de fonctionnalité (<span class="code">git checkout -b feature/AmazingFeature</span>)</li>
+    <li>Commit vos changements (<span class="code">git commit -m 'Add some AmazingFeature'</span>)</li>
+    <li>Push vers la branche (<span class="code">git push origin feature/AmazingFeature</span>)</li>
+    <li>Ouvrez une Pull Request</li>
+</ol>
